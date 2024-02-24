@@ -1,1 +1,2 @@
-get default distance map
+# get default distance map 
+# train demo
